@@ -9,7 +9,7 @@ Este é um projeto simples e responsivo de portfólio pessoal, desenvolvido com 
 - ✅ Layout limpo e responsivo
 - ✅ Menu de navegação no cabeçalho
 - ✅ Seções de Perfil, Experiência, Formação e Contato
-- ✅ Menu lateral de Redes Sociais que aparece ao clicar
+- ✅ Menu lateral de Redes Sociais
 - ✅ Estilização com transições suaves e efeito responsivo
 
 ---
