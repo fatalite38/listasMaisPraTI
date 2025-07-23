@@ -5,7 +5,7 @@ Este repositório contém as atividades desenvolvidas durante os estudos de HTML
 
 ---
 
-## 📁 Estrutura de Pastas
+## Estrutura de Pastas
 
 ## 📂 devWeb
 ## ├── 📂 grid_flexBox # Exercício 06 - Galeria com Grid e Flexbox
